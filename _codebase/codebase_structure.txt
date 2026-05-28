@@ -1,0 +1,27 @@
+# Poject 2 | Structure | 2026-02-22 18:14:14
+
+.
+├── Lesson 12/
+│   ├── index.html
+│   ├── indexattempt10.html
+│   ├── indexattempt2.html
+│   ├── indexattempt3.html
+│   ├── indexattempt4.html
+│   ├── indexattempt5.html
+│   ├── indexattempt6.html
+│   ├── indexattempt7.html
+│   ├── indexattempt8.html
+│   ├── indexattempt9.html
+│   └── README.md
+├── Lesson Advance 8/
+│   └── client/
+│       └── server/
+│           ├── src/
+│           │   ├── components/
+│           │   │   ├── MissionCard.tsx
+│           │   │   ├── Sidebar.tsx
+│           │   │   └── StreakCounter.tsx
+│           │   ├── App.tsx
+│           │   └── index.css
+│           └── routes.ts
+└── URD 1/
