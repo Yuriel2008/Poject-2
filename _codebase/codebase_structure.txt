@@ -1,4 +1,4 @@
-# Poject 2 | Structure | 2026-02-22 18:14:14
+# Poject 2 | Structure | 2026-07-11 16:58:42
 
 .
 ├── Lesson 12/
@@ -24,4 +24,5 @@
 │           │   ├── App.tsx
 │           │   └── index.css
 │           └── routes.ts
-└── URD 1/
+├── URD 1/
+└── README.md
